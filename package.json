@@ -1,0 +1,19 @@
+{
+  "name": "julian",
+  "version": "1.0.0",
+  "description": "Productivity Assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kstremick/Julian.git"
+  },
+  "author": "Kody Stremick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kstremick/Julian/issues"
+  },
+  "homepage": "https://github.com/kstremick/Julian#readme"
+}
